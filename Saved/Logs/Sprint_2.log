@@ -1910,3 +1910,1478 @@ Confirmez-vous votre choix ?
 [2025.11.10-13.46.42:454][202]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1029.070068
 [2025.11.10-13.46.42:622][212]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.10-13.46.42:622][212]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1029.220947, Update Interval: 343.399139
+[2025.11.10-13.51.31:715][922]LogEditorTransaction: Undo Nœud de mouvement
+[2025.11.10-13.51.32:164][935]LogEditorTransaction: Undo Créer un lien d'épingle
+[2025.11.10-13.51.32:569][953]LogEditorTransaction: Undo Créer un lien d'épingle
+[2025.11.10-13.51.32:973][972]LogEditorTransaction: Undo Nœud de mouvement
+[2025.11.10-13.51.35:573][123]LogEditorTransaction: Undo Créer un lien d'épingle
+[2025.11.10-13.52.03:662][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.10-13.52.03:667][332]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1' took 0.036
+[2025.11.10-13.52.03:671][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier] ([2] browsable assets)...
+[2025.11.10-13.52.03:844][332]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy/Soldier/BP_Soldier.BP_Soldier]
+[2025.11.10-13.52.03:844][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier]
+[2025.11.10-13.52.03:884][332]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier_Auto1
+[2025.11.10-13.52.03:884][332]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/BP_Soldier_Auto1EC38B1134BCE00659BA7879A2164A50E.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/Autosaves/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier_Auto1.uasset'
+[2025.11.10-13.52.03:885][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy/Drone/BP_Drone] ([2] browsable assets)...
+[2025.11.10-13.52.03:902][332]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy/Drone/BP_Drone.BP_Drone]
+[2025.11.10-13.52.03:902][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy/Drone/BP_Drone]
+[2025.11.10-13.52.03:926][332]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI_Enemy/Drone/BP_Drone_Auto1
+[2025.11.10-13.52.03:926][332]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/BP_Drone_Auto1446B948045F4FA4F0B62D6BE50456941.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/Autosaves/Game/Blueprints/AI_Enemy/Drone/BP_Drone_Auto1.uasset'
+[2025.11.10-13.52.03:927][332]LogFileHelpers: Auto-saving content packages took 0.257
+[2025.11.10-13.52.36:817][226]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1383.423462
+[2025.11.10-13.52.36:984][236]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.10-13.52.36:984][236]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1383.574219, Update Interval: 327.254242
+[2025.11.10-13.57.05:351][228]LogScript: Warning: Tentative d'accès REINST_BP_Soldier_C_0 via propriété Character, mais REINST_BP_Soldier_C_0 n'est pas valide (en attente de kill ou de déchet)
+	ABP_Soldier1_C /Engine/Transient.World_4:PersistentLevel.REINST_BP_Soldier_C_0.CharacterMesh0.ABP_Soldier1_C_0
+	Function /Game/Blueprints/AI_Enemy/Soldier/Animations/ABP_Soldier1.ABP_Soldier1_C:ExecuteUbergraph_ABP_Soldier1:02E8
+[2025.11.10-13.57.05:351][228]LogScript: Warning: Tentative d'accès REINST_BP_Soldier_C_1 via propriété Character, mais REINST_BP_Soldier_C_1 n'est pas valide (en attente de kill ou de déchet)
+	ABP_Soldier1_C /Engine/Transient.World_10:PersistentLevel.REINST_BP_Soldier_C_1.CharacterMesh0.ABP_Soldier1_C_1
+	Function /Game/Blueprints/AI_Enemy/Soldier/Animations/ABP_Soldier1.ABP_Soldier1_C:ExecuteUbergraph_ABP_Soldier1:02E8
+[2025.11.10-13.57.05:379][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.11.10-13.57.07:653][350]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-13.57.07:659][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-13.57.07:659][350]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-13.57.07:756][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096505s)
+[2025.11.10-13.57.07:756][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.096551s)
+[2025.11.10-13.57.07:785][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.11.10-13.57.07:792][350]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-13.57.07:794][350]LogPlayLevel: PIE: World Init took: (0.002113s)
+[2025.11.10-13.57.07:795][350]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.11.10-13.57.07:795][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-13.57.07:795][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-13.57.07:795][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-13.57.07:795][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-13.57.07:795][350]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-13.57.07:795][350]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-13.57.07:795][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-13.57.07:795][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-13.57.07:795][350]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-13.57.07:795][350]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-13.57.07:795][350]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-13.57.07:797][350]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-13.57.07:876][350]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-13.57.07:877][350]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-13.57.07:877][350]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-13.57.07:877][350]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-13.57.07:877][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.11.10-13.57.07:877][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.11.10-13.57.07:879][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.11.10-13.57.07:879][350]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.11.10-13.57.07:879][350]LogInit: FAudioDevice initialized with ID 8.
+[2025.11.10-13.57.07:879][350]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level_1'.
+[2025.11.10-13.57.07:879][350]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.10-13.57.07:884][350]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-13.57.07:900][350]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-13.57.07:900][350]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-13.57.07:914][350]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-14.57.07
+[2025.11.10-13.57.07:915][350]LogWorld: Bringing up level for play took: 0.030945
+[2025.11.10-13.57.07:917][350]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.11.10-13.57.07:922][350]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-13.57.07:925][350]PIE: Serveur connecté
+[2025.11.10-13.57.07:927][350]PIE: Play in Editor : temps total de démarrage 0,268 secondes.
+[2025.11.10-13.57.07:958][350]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Bloodshot_Ramparts_Combat'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-13.57.07:995][351]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-13.57.13:660][688]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2450.173 Y=222.549 Z=30.000] for [BP_Drone_C]
+[2025.11.10-13.57.28:374][570]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-13.57.28:375][570]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-13.57.28:375][570]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.10-13.57.28:555][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-13.57.28:555][578]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-13.57.28:555][578]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-13.57.28:557][578]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-13.57.28:568][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-13.57.28:570][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-13.57.28:577][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-13.57.28:609][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-13.57.28:609][578]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.10-13.57.28:609][578]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.11.10-13.57.28:612][578]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.11.10-13.57.28:616][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-13.57.28:628][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.11.10-13.57.28:691][579]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.11.10-13.58.21:558][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1728.164917
+[2025.11.10-13.58.21:725][621]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.10-13.58.21:725][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1728.316528, Update Interval: 300.650055
+[2025.11.10-13.58.49:771][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.10-13.58.51:069][337]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-13.58.51:075][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-13.58.51:105][337]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-13.58.51:201][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096488s)
+[2025.11.10-13.58.51:201][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.096538s)
+[2025.11.10-13.58.51:228][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.10-13.58.51:236][337]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-13.58.51:237][337]LogPlayLevel: PIE: World Init took: (0.001890s)
+[2025.11.10-13.58.51:238][337]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.11.10-13.58.51:238][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-13.58.51:238][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-13.58.51:238][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-13.58.51:238][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-13.58.51:238][337]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-13.58.51:238][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-13.58.51:238][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-13.58.51:238][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-13.58.51:238][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-13.58.51:238][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-13.58.51:238][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-13.58.51:240][337]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-13.58.51:320][337]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-13.58.51:320][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-13.58.51:320][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-13.58.51:320][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-13.58.51:320][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.11.10-13.58.51:320][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.11.10-13.58.51:323][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.11.10-13.58.51:323][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.11.10-13.58.51:323][337]LogInit: FAudioDevice initialized with ID 9.
+[2025.11.10-13.58.51:323][337]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_1'.
+[2025.11.10-13.58.51:323][337]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.11.10-13.58.51:327][337]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-13.58.51:344][337]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-13.58.51:344][337]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-13.58.51:357][337]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-14.58.51
+[2025.11.10-13.58.51:358][337]LogWorld: Bringing up level for play took: 0.029978
+[2025.11.10-13.58.51:360][337]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.11.10-13.58.51:364][337]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-13.58.51:367][337]PIE: Serveur connecté
+[2025.11.10-13.58.51:369][337]PIE: Play in Editor : temps total de démarrage 0,294 secondes.
+[2025.11.10-13.58.51:400][337]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Boom_Bewm___Captain_Flynt_Boss'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-13.58.51:429][338]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-13.58.57:804][716]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-13.58.57:804][716]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-13.58.57:804][716]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.10-13.58.59:469][816]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-13.58.59:469][816]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-13.59.05:357][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-13.59.05:357][167]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-13.59.05:357][167]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-13.59.05:358][167]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-13.59.05:368][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-13.59.05:371][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-13.59.05:379][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-13.59.05:413][167]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-13.59.05:413][167]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.11.10-13.59.05:413][167]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.11.10-13.59.05:415][167]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.11.10-13.59.05:419][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-13.59.05:432][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.10-13.59.05:506][168]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.11.10-13.59.11:390][479]LogEditorTransaction: Undo Créer un lien d'épingle
+[2025.11.10-13.59.12:451][522]LogEditorTransaction: Undo Créer un lien d'épingle
+[2025.11.10-13.59.13:181][556]LogEditorTransaction: Undo Coller le contenu du presse-papiers
+[2025.11.10-14.01.03:173][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.10-14.01.04:674][ 60]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-14.01.04:681][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-14.01.04:681][ 60]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.01.04:777][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095773s)
+[2025.11.10-14.01.04:777][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.095834s)
+[2025.11.10-14.01.04:803][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.11.10-14.01.04:809][ 60]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-14.01.04:811][ 60]LogPlayLevel: PIE: World Init took: (0.001823s)
+[2025.11.10-14.01.04:812][ 60]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.11.10-14.01.04:812][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-14.01.04:812][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-14.01.04:812][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-14.01.04:812][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-14.01.04:812][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-14.01.04:812][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-14.01.04:812][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-14.01.04:812][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-14.01.04:812][ 60]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-14.01.04:812][ 60]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-14.01.04:812][ 60]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-14.01.04:814][ 60]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-14.01.04:893][ 60]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-14.01.04:894][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-14.01.04:894][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-14.01.04:894][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-14.01.04:894][ 60]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.11.10-14.01.04:894][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.11.10-14.01.04:896][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.11.10-14.01.04:896][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.11.10-14.01.04:896][ 60]LogInit: FAudioDevice initialized with ID 10.
+[2025.11.10-14.01.04:896][ 60]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_1'.
+[2025.11.10-14.01.04:896][ 60]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.11.10-14.01.04:900][ 60]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-14.01.04:917][ 60]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.01.04:917][ 60]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.01.04:930][ 60]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-15.01.04
+[2025.11.10-14.01.04:931][ 60]LogWorld: Bringing up level for play took: 0.029411
+[2025.11.10-14.01.04:933][ 60]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.11.10-14.01.04:937][ 60]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-14.01.04:939][ 60]PIE: Serveur connecté
+[2025.11.10-14.01.04:942][ 60]PIE: Play in Editor : temps total de démarrage 0,261 secondes.
+[2025.11.10-14.01.04:972][ 60]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Bloodshot_Ramparts_Combat'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-14.01.05:011][ 60]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-14.01.12:189][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.01.12:189][483]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.01.12:189][483]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-14.01.12:190][483]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-14.01.12:201][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.01.12:203][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-14.01.12:209][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.01.12:242][483]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-14.01.12:242][483]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.11.10-14.01.12:242][483]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.11.10-14.01.12:245][483]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.11.10-14.01.12:251][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.01.12:263][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.11.10-14.01.12:338][484]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.11.10-14.01.45:975][353]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-14.01.45:982][353]LogPlayLevel: [PlayLevel] Compiling BP_Drone before play...
+[2025.11.10-14.01.46:078][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.11.10-14.01.46:081][353]LogPlayLevel: PlayLevel: Blueprint regeneration took 100 ms (1 blueprints)
+[2025.11.10-14.01.46:081][353]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.01.46:174][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091498s)
+[2025.11.10-14.01.46:174][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.091538s)
+[2025.11.10-14.01.46:198][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.11.10-14.01.46:200][353]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-14.01.46:202][353]LogPlayLevel: PIE: World Init took: (0.002157s)
+[2025.11.10-14.01.46:203][353]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.11.10-14.01.46:203][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-14.01.46:203][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-14.01.46:203][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-14.01.46:203][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-14.01.46:203][353]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-14.01.46:203][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-14.01.46:203][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-14.01.46:203][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-14.01.46:203][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-14.01.46:203][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-14.01.46:203][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-14.01.46:205][353]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-14.01.46:284][353]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-14.01.46:285][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-14.01.46:285][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-14.01.46:285][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-14.01.46:285][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.11.10-14.01.46:285][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.11.10-14.01.46:287][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.11.10-14.01.46:287][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.11.10-14.01.46:287][353]LogInit: FAudioDevice initialized with ID 11.
+[2025.11.10-14.01.46:287][353]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_1'.
+[2025.11.10-14.01.46:287][353]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.11.10-14.01.46:291][353]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-14.01.46:308][353]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.01.46:308][353]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.01.46:321][353]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-15.01.46
+[2025.11.10-14.01.46:322][353]LogWorld: Bringing up level for play took: 0.030295
+[2025.11.10-14.01.46:325][353]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.11.10-14.01.46:329][353]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-14.01.46:331][353]PIE: Serveur connecté
+[2025.11.10-14.01.46:333][353]PIE: Play in Editor : temps total de démarrage 0,353 secondes.
+[2025.11.10-14.01.46:364][353]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Bloodshot_Ramparts_Combat'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-14.01.46:400][354]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-14.01.51:076][630]LogBlueprintUserMessages: [BP_Drone_C_1] X=862.378 Y=-72.839 Z=-0.000
+[2025.11.10-14.01.52:206][698]LogBlueprintUserMessages: [BP_Drone_C_1] X=989.786 Y=-81.847 Z=-0.000
+[2025.11.10-14.01.52:992][745]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=198.584 Y=880.159 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.01.53:257][761]LogBlueprintUserMessages: [BP_Drone_C_1] X=1156.844 Y=-80.334 Z=-0.000
+[2025.11.10-14.01.55:339][886]LogBlueprintUserMessages: [BP_Drone_C_1] X=1372.148 Y=-253.662 Z=-20.200
+[2025.11.10-14.01.55:992][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3531.907 Y=-710.923 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.01.56:407][950]LogBlueprintUserMessages: [BP_Drone_C_1] X=1538.268 Y=-287.770 Z=-23.535
+[2025.11.10-14.01.57:823][ 35]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.01.57:824][ 35]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.01.57:824][ 35]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.10-14.01.58:381][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.01.58:381][ 67]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.01.58:381][ 67]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-14.01.58:382][ 67]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-14.01.58:393][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.01.58:394][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-14.01.58:401][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.01.58:430][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.01.58:434][ 67]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.11.10-14.01.58:434][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.11.10-14.01.58:437][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.11.10-14.01.58:456][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.11.10-14.01.58:521][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.11.10-14.02.01:350][235]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-14.02.01:356][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-14.02.01:356][235]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.02.01:455][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098944s)
+[2025.11.10-14.02.01:455][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.098991s)
+[2025.11.10-14.02.01:480][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.11.10-14.02.01:484][235]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-14.02.01:486][235]LogPlayLevel: PIE: World Init took: (0.002095s)
+[2025.11.10-14.02.01:486][235]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.11.10-14.02.01:486][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-14.02.01:486][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-14.02.01:486][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-14.02.01:486][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-14.02.01:487][235]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-14.02.01:487][235]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-14.02.01:487][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-14.02.01:487][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-14.02.01:487][235]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-14.02.01:487][235]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-14.02.01:487][235]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-14.02.01:489][235]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-14.02.01:571][235]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-14.02.01:571][235]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-14.02.01:571][235]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-14.02.01:571][235]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-14.02.01:571][235]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.11.10-14.02.01:571][235]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.11.10-14.02.01:574][235]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.11.10-14.02.01:574][235]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.11.10-14.02.01:574][235]LogInit: FAudioDevice initialized with ID 12.
+[2025.11.10-14.02.01:574][235]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_1'.
+[2025.11.10-14.02.01:574][235]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.11.10-14.02.01:578][235]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-14.02.01:595][235]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.02.01:596][235]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.02.01:609][235]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-15.02.01
+[2025.11.10-14.02.01:610][235]LogWorld: Bringing up level for play took: 0.031510
+[2025.11.10-14.02.01:612][235]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.11.10-14.02.01:618][235]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-14.02.01:621][235]PIE: Serveur connecté
+[2025.11.10-14.02.01:623][235]PIE: Play in Editor : temps total de démarrage 0,267 secondes.
+[2025.11.10-14.02.01:655][235]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Boom_Bewm___Captain_Flynt_Boss'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-14.02.01:688][236]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-14.02.06:179][503]LogBlueprintUserMessages: [BP_Drone_C_0] X=152.164 Y=3368.094 Z=-0.000
+[2025.11.10-14.02.07:364][574]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2801.618 Y=-457.243 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.02.07:912][607]LogBlueprintUserMessages: [BP_Drone_C_0] X=144.718 Y=3203.277 Z=-0.000
+[2025.11.10-14.02.09:364][694]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=842.196 Y=-599.346 Z=21.973] for [BP_Drone_C]
+[2025.11.10-14.02.09:929][728]LogBlueprintUserMessages: [BP_Drone_C_0] X=135.993 Y=3010.157 Z=-0.000
+[2025.11.10-14.02.14:695][ 14]LogBlueprintUserMessages: [BP_Drone_C_0] X=114.857 Y=2542.315 Z=-0.000
+[2025.11.10-14.02.15:779][ 79]LogBlueprintUserMessages: [BP_Drone_C_0] X=110.344 Y=2442.433 Z=0.000
+[2025.11.10-14.02.17:196][164]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.02.17:197][164]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.02.17:197][164]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.10-14.02.18:878][265]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.02.18:878][265]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.02.19:163][281]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1307.048 Y=1707.868 Z=18.658] for [BP_Drone_C]
+[2025.11.10-14.02.19:845][322]LogBlueprintUserMessages: [BP_Drone_C_5] X=878.055 Y=-37.601 Z=-0.000
+[2025.11.10-14.02.22:028][453]LogBlueprintUserMessages: [BP_Drone_C_5] X=668.263 Y=-28.617 Z=-0.000
+[2025.11.10-14.02.22:163][461]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=314.464 Y=-526.656 Z=33.990] for [BP_Drone_C]
+[2025.11.10-14.02.23:811][560]LogBlueprintUserMessages: [BP_Drone_C_5] X=498.435 Y=-21.345 Z=0.000
+[2025.11.10-14.02.25:163][641]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1575.583 Y=-1225.356 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.02.25:211][644]LogBlueprintUserMessages: [BP_Drone_C_5] X=399.432 Y=-17.813 Z=-0.000
+[2025.11.10-14.02.25:928][687]LogBlueprintUserMessages: [BP_Drone_C_5] X=514.936 Y=-27.037 Z=0.000
+[2025.11.10-14.02.27:111][758]LogBlueprintUserMessages: [BP_Drone_C_6] X=314.340 Y=-161.102 Z=-0.000
+[2025.11.10-14.02.27:761][797]LogBlueprintUserMessages: [BP_Drone_C_6] X=405.515 Y=-214.929 Z=-9.439
+[2025.11.10-14.02.28:644][850]LogBlueprintUserMessages: [BP_Drone_C_6] X=397.301 Y=-210.777 Z=-20.353
+[2025.11.10-14.02.33:012][112]LogBlueprintUserMessages: [BP_Drone_C_6] X=-77.604 Y=436.968 Z=0.000
+[2025.11.10-14.02.33:694][153]LogBlueprintUserMessages: [BP_Drone_C_6] X=-74.241 Y=422.438 Z=-0.000
+[2025.11.10-14.02.35:111][238]LogBlueprintUserMessages: [BP_Drone_C_1] X=-131.995 Y=227.116 Z=0.000
+[2025.11.10-14.02.35:112][238]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.02.35:113][238]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.02.35:113][238]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-14.02.45:292][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.02.45:292][844]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.02.45:292][844]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-14.02.45:294][844]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-14.02.45:303][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.02.45:305][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-14.02.45:312][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.02.45:343][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.02.45:347][844]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.11.10-14.02.45:347][844]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.11.10-14.02.45:350][844]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.11.10-14.02.45:368][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.11.10-14.02.45:434][845]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.11.10-14.03.38:962][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.11.10-14.03.40:104][566]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-14.03.40:110][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-14.03.40:110][566]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.03.40:208][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098067s)
+[2025.11.10-14.03.40:208][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.098114s)
+[2025.11.10-14.03.40:235][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.10-14.03.40:242][566]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-14.03.40:244][566]LogPlayLevel: PIE: World Init took: (0.001847s)
+[2025.11.10-14.03.40:244][566]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.11.10-14.03.40:244][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-14.03.40:244][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-14.03.40:244][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-14.03.40:244][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-14.03.40:244][566]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-14.03.40:244][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-14.03.40:244][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-14.03.40:244][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-14.03.40:244][566]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-14.03.40:244][566]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-14.03.40:244][566]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-14.03.40:247][566]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-14.03.40:326][566]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-14.03.40:327][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-14.03.40:327][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-14.03.40:327][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-14.03.40:327][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.11.10-14.03.40:327][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.11.10-14.03.40:329][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.11.10-14.03.40:329][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.11.10-14.03.40:329][566]LogInit: FAudioDevice initialized with ID 13.
+[2025.11.10-14.03.40:329][566]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_1'.
+[2025.11.10-14.03.40:329][566]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.11.10-14.03.40:333][566]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-14.03.40:350][566]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.03.40:350][566]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.03.40:363][566]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-15.03.40
+[2025.11.10-14.03.40:364][566]LogWorld: Bringing up level for play took: 0.029960
+[2025.11.10-14.03.40:366][566]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.11.10-14.03.40:371][566]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-14.03.40:373][566]PIE: Serveur connecté
+[2025.11.10-14.03.40:375][566]PIE: Play in Editor : temps total de démarrage 0,266 secondes.
+[2025.11.10-14.03.40:406][566]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Bloodshot_Ramparts_Combat'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-14.03.40:441][567]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-14.03.45:443][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.03.45:443][862]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.03.45:443][862]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-14.03.45:444][862]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-14.03.45:453][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.03.45:456][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-14.03.45:463][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.03.45:496][862]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-14.03.45:497][862]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.11.10-14.03.45:497][862]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.11.10-14.03.45:499][862]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.11.10-14.03.45:505][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.03.45:516][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.10-14.03.45:592][863]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.11.10-14.03.54:486][380]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-14.03.54:494][380]LogPlayLevel: [PlayLevel] Compiling BP_Drone before play...
+[2025.11.10-14.03.54:588][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.11.10-14.03.54:598][380]LogPlayLevel: PlayLevel: Blueprint regeneration took 106 ms (1 blueprints)
+[2025.11.10-14.03.54:622][380]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.03.54:715][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092356s)
+[2025.11.10-14.03.54:715][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.092424s)
+[2025.11.10-14.03.54:740][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.10-14.03.54:741][380]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-14.03.54:743][380]LogPlayLevel: PIE: World Init took: (0.001982s)
+[2025.11.10-14.03.54:744][380]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.11.10-14.03.54:744][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-14.03.54:744][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-14.03.54:744][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-14.03.54:744][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-14.03.54:744][380]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-14.03.54:744][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-14.03.54:744][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-14.03.54:744][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-14.03.54:744][380]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-14.03.54:744][380]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-14.03.54:744][380]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-14.03.54:746][380]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-14.03.54:828][380]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-14.03.54:828][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-14.03.54:828][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-14.03.54:828][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-14.03.54:828][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.11.10-14.03.54:828][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.11.10-14.03.54:830][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.11.10-14.03.54:830][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.11.10-14.03.54:830][380]LogInit: FAudioDevice initialized with ID 14.
+[2025.11.10-14.03.54:830][380]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level_1'.
+[2025.11.10-14.03.54:830][380]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.11.10-14.03.54:835][380]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-14.03.54:852][380]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.03.54:852][380]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.03.54:864][380]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-15.03.54
+[2025.11.10-14.03.54:865][380]LogWorld: Bringing up level for play took: 0.030096
+[2025.11.10-14.03.54:868][380]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.11.10-14.03.54:872][380]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-14.03.54:875][380]PIE: Serveur connecté
+[2025.11.10-14.03.54:877][380]PIE: Play in Editor : temps total de démarrage 0,385 secondes.
+[2025.11.10-14.03.54:909][380]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Bloodshot_Ramparts_Combat'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-14.03.54:939][381]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-14.03.55:724][423]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2062.334473
+[2025.11.10-14.03.55:890][433]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.10-14.03.55:890][434]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2062.483887, Update Interval: 354.420593
+[2025.11.10-14.03.59:538][652]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2326.899 Y=-1372.990 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.04.05:984][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.04.05:984][ 37]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.04.05:984][ 37]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-14.04.05:986][ 37]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-14.04.05:996][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.04.05:997][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-14.04.06:005][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.04.06:033][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.04.06:037][ 37]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.11.10-14.04.06:037][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.11.10-14.04.06:040][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.11.10-14.04.06:059][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.10-14.04.06:133][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.11.10-14.04.32:798][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.10-14.04.32:801][238]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1' took 0.030
+[2025.11.10-14.04.32:801][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier] ([2] browsable assets)...
+[2025.11.10-14.04.32:973][238]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy/Soldier/BP_Soldier.BP_Soldier]
+[2025.11.10-14.04.32:973][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier]
+[2025.11.10-14.04.33:012][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier_Auto2
+[2025.11.10-14.04.33:012][238]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/BP_Soldier_Auto2F50C525F47BE2A10A7FA0581A41AB44C.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/Autosaves/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier_Auto2.uasset'
+[2025.11.10-14.04.33:012][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy/Drone/BP_Drone] ([2] browsable assets)...
+[2025.11.10-14.04.33:030][238]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy/Drone/BP_Drone.BP_Drone]
+[2025.11.10-14.04.33:030][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy/Drone/BP_Drone]
+[2025.11.10-14.04.33:058][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI_Enemy/Drone/BP_Drone_Auto2
+[2025.11.10-14.04.33:058][238]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/BP_Drone_Auto28E89DFD4475A29C5138172AB171EBEC5.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/Autosaves/Game/Blueprints/AI_Enemy/Drone/BP_Drone_Auto2.uasset'
+[2025.11.10-14.04.33:058][238]LogFileHelpers: Auto-saving content packages took 0.258
+[2025.11.10-14.05.25:997][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.11.10-14.05.27:565][519]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-14.05.27:572][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-14.05.27:594][519]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.05.27:691][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096317s)
+[2025.11.10-14.05.27:691][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.096367s)
+[2025.11.10-14.05.27:717][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.10-14.05.27:725][519]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-14.05.27:727][519]LogPlayLevel: PIE: World Init took: (0.001836s)
+[2025.11.10-14.05.27:728][519]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.11.10-14.05.27:728][519]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-14.05.27:728][519]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-14.05.27:728][519]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-14.05.27:728][519]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-14.05.27:728][519]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-14.05.27:728][519]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-14.05.27:728][519]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-14.05.27:728][519]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-14.05.27:728][519]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-14.05.27:728][519]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-14.05.27:728][519]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-14.05.27:730][519]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-14.05.27:808][519]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-14.05.27:808][519]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-14.05.27:808][519]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-14.05.27:808][519]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-14.05.27:808][519]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.11.10-14.05.27:808][519]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.11.10-14.05.27:811][519]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.11.10-14.05.27:811][519]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.11.10-14.05.27:811][519]LogInit: FAudioDevice initialized with ID 15.
+[2025.11.10-14.05.27:811][519]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level_1'.
+[2025.11.10-14.05.27:811][519]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.11.10-14.05.27:815][519]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-14.05.27:831][519]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.05.27:831][519]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.05.27:844][519]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-15.05.27
+[2025.11.10-14.05.27:845][519]LogWorld: Bringing up level for play took: 0.029248
+[2025.11.10-14.05.27:848][519]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.11.10-14.05.27:852][519]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-14.05.27:854][519]PIE: Serveur connecté
+[2025.11.10-14.05.27:856][519]PIE: Play in Editor : temps total de démarrage 0,285 secondes.
+[2025.11.10-14.05.27:889][519]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Boom_Bewm___Captain_Flynt_Boss'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-14.05.27:919][520]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-14.05.36:312][ 19]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.05.36:312][ 19]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.05.36:312][ 19]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.10-14.05.37:306][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.05.37:306][ 77]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.05.37:306][ 77]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-14.05.37:307][ 77]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-14.05.37:317][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.05.37:319][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-14.05.37:326][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.05.37:358][ 77]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-14.05.37:358][ 77]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.11.10-14.05.37:358][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.11.10-14.05.37:362][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.11.10-14.05.37:364][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.05.37:376][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.11.10-14.05.37:442][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.11.10-14.05.47:452][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.11.10-14.05.48:792][729]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-14.05.48:799][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-14.05.48:800][729]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.05.48:898][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098237s)
+[2025.11.10-14.05.48:898][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.098286s)
+[2025.11.10-14.05.48:924][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.11.10-14.05.48:932][729]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-14.05.48:934][729]LogPlayLevel: PIE: World Init took: (0.001881s)
+[2025.11.10-14.05.48:934][729]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.11.10-14.05.48:934][729]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-14.05.48:934][729]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-14.05.48:934][729]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-14.05.48:934][729]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-14.05.48:934][729]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-14.05.48:934][729]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-14.05.48:934][729]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-14.05.48:934][729]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-14.05.48:934][729]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-14.05.48:934][729]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-14.05.48:934][729]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-14.05.48:937][729]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-14.05.49:017][729]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-14.05.49:018][729]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-14.05.49:018][729]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-14.05.49:018][729]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-14.05.49:018][729]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.11.10-14.05.49:018][729]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.11.10-14.05.49:020][729]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.11.10-14.05.49:020][729]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.11.10-14.05.49:020][729]LogInit: FAudioDevice initialized with ID 16.
+[2025.11.10-14.05.49:020][729]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level_1'.
+[2025.11.10-14.05.49:020][729]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.11.10-14.05.49:024][729]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-14.05.49:041][729]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.05.49:041][729]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.05.49:053][729]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-15.05.49
+[2025.11.10-14.05.49:054][729]LogWorld: Bringing up level for play took: 0.029767
+[2025.11.10-14.05.49:057][729]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.11.10-14.05.49:061][729]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-14.05.49:063][729]PIE: Serveur connecté
+[2025.11.10-14.05.49:066][729]PIE: Play in Editor : temps total de démarrage 0,267 secondes.
+[2025.11.10-14.05.49:096][729]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Boom_Bewm___Captain_Flynt_Boss'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-14.05.49:126][730]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-14.05.49:803][766]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2258.881 Y=-739.056 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.05.58:802][305]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3520.902 Y=-908.817 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.05.59:986][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.05.59:986][374]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.05.59:986][374]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-14.05.59:987][374]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-14.05.59:997][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.05.59:999][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-14.06.00:005][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.06.00:039][374]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-14.06.00:040][374]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.11.10-14.06.00:040][374]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.11.10-14.06.00:042][374]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.11.10-14.06.00:049][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.06.00:061][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.11.10-14.06.00:133][375]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.11.10-14.06.18:929][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.11.10-14.06.20:998][594]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-14.06.21:006][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-14.06.21:036][594]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.06.21:133][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096948s)
+[2025.11.10-14.06.21:133][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.096998s)
+[2025.11.10-14.06.21:159][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.10-14.06.21:167][594]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-14.06.21:169][594]LogPlayLevel: PIE: World Init took: (0.001898s)
+[2025.11.10-14.06.21:169][594]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.11.10-14.06.21:170][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-14.06.21:170][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-14.06.21:170][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-14.06.21:170][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-14.06.21:170][594]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-14.06.21:170][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-14.06.21:170][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-14.06.21:170][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-14.06.21:170][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-14.06.21:170][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-14.06.21:170][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-14.06.21:172][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-14.06.21:250][594]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-14.06.21:250][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-14.06.21:250][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-14.06.21:250][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-14.06.21:251][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.11.10-14.06.21:251][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.11.10-14.06.21:253][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.11.10-14.06.21:253][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.11.10-14.06.21:253][594]LogInit: FAudioDevice initialized with ID 17.
+[2025.11.10-14.06.21:253][594]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level_1'.
+[2025.11.10-14.06.21:253][594]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.11.10-14.06.21:257][594]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-14.06.21:273][594]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.06.21:273][594]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.06.21:287][594]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-15.06.21
+[2025.11.10-14.06.21:287][594]LogWorld: Bringing up level for play took: 0.030370
+[2025.11.10-14.06.21:290][594]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.11.10-14.06.21:295][594]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-14.06.21:298][594]PIE: Serveur connecté
+[2025.11.10-14.06.21:300][594]PIE: Play in Editor : temps total de démarrage 0,295 secondes.
+[2025.11.10-14.06.21:330][594]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Bloodshot_Ramparts_Combat'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-14.06.21:361][595]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-14.06.22:002][629]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2461.664 Y=481.596 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.06.31:368][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.06.31:368][188]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.06.31:368][188]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-14.06.31:370][188]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-14.06.31:378][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.06.31:381][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-14.06.31:388][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.06.31:421][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-14.06.31:421][188]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.11.10-14.06.31:421][188]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.11.10-14.06.31:423][188]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.11.10-14.06.31:429][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.06.31:440][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.11.10-14.06.31:514][189]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.11.10-14.06.41:086][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.11.10-14.06.45:226][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.11.10-14.06.46:455][ 35]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-14.06.46:462][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-14.06.46:486][ 35]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.06.46:581][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094643s)
+[2025.11.10-14.06.46:581][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.094690s)
+[2025.11.10-14.06.46:607][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.11.10-14.06.46:616][ 35]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-14.06.46:618][ 35]LogPlayLevel: PIE: World Init took: (0.001897s)
+[2025.11.10-14.06.46:619][ 35]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.11.10-14.06.46:619][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-14.06.46:619][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-14.06.46:619][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-14.06.46:619][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-14.06.46:619][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-14.06.46:619][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-14.06.46:619][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-14.06.46:619][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-14.06.46:619][ 35]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-14.06.46:619][ 35]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-14.06.46:619][ 35]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-14.06.46:621][ 35]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-14.06.46:699][ 35]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-14.06.46:699][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-14.06.46:699][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-14.06.46:699][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-14.06.46:699][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.11.10-14.06.46:699][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.11.10-14.06.46:702][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.11.10-14.06.46:702][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.11.10-14.06.46:702][ 35]LogInit: FAudioDevice initialized with ID 18.
+[2025.11.10-14.06.46:702][ 35]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level_1'.
+[2025.11.10-14.06.46:702][ 35]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.11.10-14.06.46:706][ 35]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-14.06.46:723][ 35]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.06.46:723][ 35]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.06.46:735][ 35]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-15.06.46
+[2025.11.10-14.06.46:737][ 35]LogWorld: Bringing up level for play took: 0.030606
+[2025.11.10-14.06.46:740][ 35]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.11.10-14.06.46:744][ 35]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-14.06.46:746][ 35]PIE: Serveur connecté
+[2025.11.10-14.06.46:748][ 35]PIE: Play in Editor : temps total de démarrage 0,287 secondes.
+[2025.11.10-14.06.46:780][ 35]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Boom_Bewm___Captain_Flynt_Boss'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-14.06.46:811][ 36]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-14.06.47:458][ 72]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1630.797 Y=-430.979 Z=32.651] for [BP_Drone_C]
+[2025.11.10-14.06.58:460][732]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-80.955 Y=218.054 Z=20.187] for [BP_Drone_C]
+[2025.11.10-14.07.05:688][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.07.05:688][164]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.07.05:688][164]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-14.07.05:690][164]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-14.07.05:700][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.07.05:702][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-14.07.05:709][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.07.05:742][164]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-14.07.05:742][164]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.11.10-14.07.05:742][164]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.11.10-14.07.05:745][164]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.11.10-14.07.05:751][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.07.05:764][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.10-14.07.05:838][165]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.11.10-14.07.51:747][857]LogStreaming: Display: FlushAsyncLoading(556): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.10-14.08.17:195][346]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/AI_Enemy/WB_TextDmgIndicator.WB_TextDmgIndicator
+[2025.11.10-14.08.17:196][346]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.11.10-14.08.17:206][346]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.11.10-14.08.17:217][346]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Maj+Espace]
+[2025.11.10-14.08.17:812][346]LogSlate: Took 0.007985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.10-14.09.04:461][699]LogSlate: Window 'Pipette' being destroyed
+[2025.11.10-14.09.06:273][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.11.10-14.09.07:649][868]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-14.09.07:660][868]LogPlayLevel: [PlayLevel] Compiling ABP_Soldier1 before play...
+[2025.11.10-14.09.07:662][868]LogPlayLevel: [PlayLevel]   Compiling BP_Soldier as a dependent...
+[2025.11.10-14.09.07:723][868]LogScript: Warning: Tentative d'accès REINST_BP_Soldier_C_1 via propriété Character, mais REINST_BP_Soldier_C_1 n'est pas valide (en attente de kill ou de déchet)
+	ABP_Soldier1_C /Engine/Transient.World_10:PersistentLevel.REINST_BP_Soldier_C_1.CharacterMesh0.ABP_Soldier1_C_1
+	Function /Game/Blueprints/AI_Enemy/Soldier/Animations/ABP_Soldier1.ABP_Soldier1_C:ExecuteUbergraph_ABP_Soldier1:02E8
+[2025.11.10-14.09.07:723][868]LogScript: Warning: Tentative d'accès REINST_BP_Soldier_C_0 via propriété Character, mais REINST_BP_Soldier_C_0 n'est pas valide (en attente de kill ou de déchet)
+	ABP_Soldier1_C /Engine/Transient.World_4:PersistentLevel.REINST_BP_Soldier_C_0.CharacterMesh0.ABP_Soldier1_C_0
+	Function /Game/Blueprints/AI_Enemy/Soldier/Animations/ABP_Soldier1.ABP_Soldier1_C:ExecuteUbergraph_ABP_Soldier1:02E8
+[2025.11.10-14.09.07:773][868]LogPlayLevel: [PlayLevel] Compiling BP_Drone before play...
+[2025.11.10-14.09.07:865][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.11.10-14.09.07:872][868]LogPlayLevel: PlayLevel: Blueprint regeneration took 216 ms (3 blueprints)
+[2025.11.10-14.09.07:872][868]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.09.07:964][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091841s)
+[2025.11.10-14.09.07:964][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.091883s)
+[2025.11.10-14.09.07:990][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.11.10-14.09.07:991][868]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-14.09.07:993][868]LogPlayLevel: PIE: World Init took: (0.002080s)
+[2025.11.10-14.09.07:994][868]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.11.10-14.09.07:994][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-14.09.07:994][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-14.09.07:994][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-14.09.07:994][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-14.09.07:994][868]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-14.09.07:994][868]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-14.09.07:994][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-14.09.07:994][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-14.09.07:994][868]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-14.09.07:994][868]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-14.09.07:994][868]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-14.09.07:996][868]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-14.09.08:080][868]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-14.09.08:080][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-14.09.08:081][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-14.09.08:081][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-14.09.08:081][868]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.11.10-14.09.08:081][868]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.11.10-14.09.08:083][868]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.11.10-14.09.08:083][868]LogInit: FAudioDevice initialized with ID 19.
+[2025.11.10-14.09.08:083][868]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.11.10-14.09.08:083][868]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level_1'.
+[2025.11.10-14.09.08:083][868]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.11.10-14.09.08:087][868]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-14.09.08:103][868]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.09.08:103][868]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.09.08:115][868]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-15.09.08
+[2025.11.10-14.09.08:116][868]LogWorld: Bringing up level for play took: 0.029033
+[2025.11.10-14.09.08:117][868]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.11.10-14.09.08:123][868]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-14.09.08:125][868]PIE: Serveur connecté
+[2025.11.10-14.09.08:127][868]PIE: Play in Editor : temps total de démarrage 0,472 secondes.
+[2025.11.10-14.09.08:160][868]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Boom_Bewm___Captain_Flynt_Boss'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-14.09.08:194][869]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-14.09.14:401][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.09.14:401][236]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.09.14:401][236]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-14.09.14:402][236]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-14.09.14:412][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.09.14:414][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-14.09.14:421][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.09.14:451][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.09.14:455][236]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.11.10-14.09.14:455][236]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.11.10-14.09.14:457][236]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.11.10-14.09.14:472][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.11.10-14.09.14:549][237]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.11.10-14.09.16:114][328]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-14.09.16:121][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-14.09.16:160][328]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.09.16:261][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100703s)
+[2025.11.10-14.09.16:261][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.100768s)
+[2025.11.10-14.09.16:287][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.11.10-14.09.16:290][328]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-14.09.16:292][328]LogPlayLevel: PIE: World Init took: (0.002032s)
+[2025.11.10-14.09.16:292][328]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.11.10-14.09.16:292][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-14.09.16:292][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-14.09.16:292][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-14.09.16:292][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-14.09.16:292][328]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-14.09.16:292][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-14.09.16:292][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-14.09.16:292][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-14.09.16:292][328]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-14.09.16:292][328]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-14.09.16:292][328]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-14.09.16:295][328]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-14.09.16:380][328]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-14.09.16:380][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-14.09.16:380][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-14.09.16:380][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-14.09.16:380][328]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.11.10-14.09.16:380][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.11.10-14.09.16:383][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.11.10-14.09.16:383][328]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.11.10-14.09.16:383][328]LogInit: FAudioDevice initialized with ID 20.
+[2025.11.10-14.09.16:383][328]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level_1'.
+[2025.11.10-14.09.16:383][328]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.10-14.09.16:387][328]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-14.09.16:405][328]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.09.16:405][328]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.09.16:417][328]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-15.09.16
+[2025.11.10-14.09.16:419][328]LogWorld: Bringing up level for play took: 0.031883
+[2025.11.10-14.09.16:422][328]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.11.10-14.09.16:426][328]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-14.09.16:429][328]PIE: Serveur connecté
+[2025.11.10-14.09.16:431][328]PIE: Play in Editor : temps total de démarrage 0,311 secondes.
+[2025.11.10-14.09.16:463][328]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Bloodshot_Ramparts_Combat'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-14.09.16:494][329]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-14.09.17:193][368]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:193][368]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.09.17:193][368]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.10-14.09.17:209][369]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:209][369]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:209][369]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:209][369]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:209][369]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:225][370]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:226][370]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:226][370]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:226][370]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:226][370]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:242][371]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:242][371]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:242][371]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:242][371]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:242][371]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:258][372]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:258][372]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:258][372]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:258][372]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:258][372]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:275][373]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:275][373]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:275][373]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:275][373]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:275][373]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:292][374]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:292][374]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:292][374]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:292][374]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:292][374]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:309][375]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:309][375]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:309][375]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:309][375]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:309][375]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:325][376]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:325][376]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:325][376]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:325][376]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:325][376]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:341][377]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:342][377]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:342][377]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:342][377]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:342][377]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:358][378]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:358][378]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:358][378]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:358][378]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:359][378]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:375][379]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:375][379]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:375][379]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:375][379]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:375][379]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:391][380]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:391][380]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:391][380]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:391][380]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:391][380]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:409][381]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:409][381]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:409][381]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:409][381]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:409][381]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:425][382]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:425][382]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:425][382]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:425][382]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:425][382]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:442][383]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:442][383]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:442][383]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:442][383]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:442][383]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:459][384]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:459][384]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:459][384]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:459][384]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:459][384]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:475][385]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:475][385]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:475][385]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:475][385]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:475][385]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:492][386]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:492][386]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:492][386]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:492][386]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:492][386]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:509][387]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:509][387]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:509][387]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:509][387]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:509][387]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:525][388]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:525][388]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:525][388]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:525][388]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:525][388]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:542][389]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:542][389]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:542][389]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:542][389]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:542][389]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:559][390]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:559][390]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:559][390]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:559][390]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:559][390]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:576][391]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:576][391]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:576][391]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:576][391]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:576][391]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:592][392]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:592][392]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:592][392]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:592][392]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:592][392]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:609][393]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:609][393]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:609][393]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:609][393]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:609][393]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:625][394]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:625][394]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:625][394]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:625][394]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:625][394]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:642][395]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:642][395]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:642][395]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:642][395]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:642][395]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:659][396]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:659][396]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:659][396]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:659][396]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:659][396]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:675][397]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:675][397]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:675][397]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:675][397]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:675][397]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:692][398]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:692][398]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:692][398]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:692][398]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:692][398]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:709][399]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:709][399]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:709][399]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:709][399]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:709][399]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:725][400]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:725][400]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:725][400]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:725][400]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:725][400]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:742][401]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:742][401]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:742][401]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:742][401]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:742][401]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:759][402]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:759][402]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:759][402]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:759][402]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:759][402]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:775][403]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:775][403]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:775][403]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:775][403]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:775][403]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:792][404]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:792][404]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:792][404]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:792][404]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:792][404]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:809][405]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:809][405]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:809][405]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:809][405]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:809][405]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:825][406]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:825][406]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:825][406]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:825][406]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:825][406]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:842][407]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:842][407]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:842][407]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:842][407]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:842][407]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:857][408]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:859][408]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:859][408]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:859][408]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:859][408]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:875][409]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:875][409]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:875][409]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:875][409]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:875][409]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:891][410]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:891][410]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:891][410]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:891][410]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:891][410]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:909][411]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:909][411]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:909][411]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:909][411]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:909][411]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:925][412]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:925][412]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:925][412]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:925][412]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:925][412]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:942][413]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:942][413]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:942][413]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:942][413]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:942][413]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:959][414]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:959][414]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:959][414]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:959][414]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:959][414]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:975][415]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:975][415]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:975][415]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:975][415]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:975][415]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.17:992][416]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.17:992][416]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:992][416]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.17:992][416]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.17:992][416]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.18:009][417]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.18:009][417]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:009][417]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.18:009][417]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:009][417]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.18:025][418]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.18:025][418]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:025][418]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.18:025][418]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:025][418]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.18:042][419]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.18:042][419]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:042][419]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.18:042][419]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:042][419]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.18:059][420]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.18:059][420]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:059][420]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.18:059][420]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:059][420]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.18:075][421]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.18:075][421]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:075][421]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.18:075][421]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:075][421]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.18:092][422]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.18:092][422]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:092][422]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.18:092][422]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:092][422]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.18:109][423]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.18:109][423]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:109][423]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.18:109][423]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:109][423]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.18:125][424]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.18:125][424]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:125][424]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.18:125][424]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:125][424]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.18:142][425]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.18:142][425]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:142][425]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.18:142][425]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:142][425]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.18:157][426]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.11.10-14.09.18:157][426]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:157][426]LogScript: Warning: Script Msg: The widget 'WB_Stats_Viewer_C_0' was already added to the screen.
+[2025.11.10-14.09.18:157][426]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.BP_Player_C_0
+[2025.11.10-14.09.18:157][426]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.26:074][901]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.09.26:074][901]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.09.30:994][196]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-113.748 Y=1410.212 Z=19.120] for [BP_Drone_C]
+[2025.11.10-14.09.35:676][477]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.35:677][477]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.09.35:677][477]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-14.09.36:991][556]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.09.36:991][556]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.09.41:430][821]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2462.677 Y=165.583 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.09.45:578][ 70]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.45:578][ 70]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.09.45:578][ 70]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-14.09.46:893][149]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.09.46:893][149]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.09.54:429][601]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.09.54:430][601]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.09.54:430][601]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-14.09.56:926][751]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.09.56:927][751]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.10.05:362][257]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.10.05:363][257]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.10.05:363][257]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-14.10.07:144][364]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.10.07:144][364]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.10.10:381][558]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1400.056 Y=-543.786 Z=27.992] for [BP_Drone_C]
+[2025.11.10-14.10.17:112][962]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.10.17:113][962]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.10.17:113][962]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-14.10.18:444][ 42]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.10.18:444][ 42]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.10.27:862][607]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.10.27:863][607]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.10.27:863][607]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-14.10.29:411][700]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.10.29:411][700]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.10.35:497][ 65]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=73.772 Y=1256.301 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.10.38:334][235]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2464.941650
+[2025.11.10-14.10.38:518][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.10-14.10.38:518][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2465.111816, Update Interval: 356.132690
+[2025.11.10-14.10.43:498][544]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=563.278 Y=340.629 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.10.53:499][144]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1496.951 Y=-1671.033 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.10.56:499][324]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=836.481 Y=-530.913 Z=25.032] for [BP_Drone_C]
+[2025.11.10-14.11.02:247][669]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.11.02:248][669]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.11.02:248][669]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-14.11.04:411][799]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.11.04:411][799]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.11.07:533][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.11.07:533][984]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.11.07:533][984]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-14.11.07:536][984]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-14.11.07:546][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.11.07:549][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-14.11.07:556][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.11.07:586][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.11.07:590][984]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.10-14.11.07:590][984]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.11.10-14.11.07:593][984]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.11.10-14.11.07:611][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.11.10-14.11.07:687][985]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.11.10-14.11.56:715][904]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-14.11.56:732][904]LogPlayLevel: [PlayLevel] Compiling ABP_M4 before play...
+[2025.11.10-14.11.56:732][904]LogPlayLevel: [PlayLevel]   Compiling ABP_Shooter as a dependent...
+[2025.11.10-14.11.56:738][904]LogPlayLevel: [PlayLevel]   Compiling BP_Player as a dependent...
+[2025.11.10-14.11.57:005][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.11.10-14.11.57:012][904]LogPlayLevel: PlayLevel: Blueprint regeneration took 291 ms (3 blueprints)
+[2025.11.10-14.11.57:044][904]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.11.57:137][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092626s)
+[2025.11.10-14.11.57:137][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.092677s)
+[2025.11.10-14.11.57:163][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.10-14.11.57:164][904]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-14.11.57:166][904]LogPlayLevel: PIE: World Init took: (0.001970s)
+[2025.11.10-14.11.57:166][904]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.11.10-14.11.57:166][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-14.11.57:166][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-14.11.57:167][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-14.11.57:167][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-14.11.57:167][904]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-14.11.57:167][904]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-14.11.57:167][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-14.11.57:167][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-14.11.57:167][904]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-14.11.57:167][904]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-14.11.57:167][904]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-14.11.57:169][904]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-14.11.57:249][904]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-14.11.57:249][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-14.11.57:249][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-14.11.57:250][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-14.11.57:250][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.11.10-14.11.57:250][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.11.10-14.11.57:251][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.11.10-14.11.57:251][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.11.10-14.11.57:251][904]LogInit: FAudioDevice initialized with ID 21.
+[2025.11.10-14.11.57:251][904]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level_1'.
+[2025.11.10-14.11.57:251][904]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.11.10-14.11.57:256][904]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-14.11.57:273][904]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.11.57:273][904]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.11.57:286][904]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-15.11.57
+[2025.11.10-14.11.57:287][904]LogWorld: Bringing up level for play took: 0.030213
+[2025.11.10-14.11.57:290][904]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.11.10-14.11.57:294][904]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-14.11.57:296][904]PIE: Serveur connecté
+[2025.11.10-14.11.57:298][904]PIE: Play in Editor : temps total de démarrage 0,577 secondes.
+[2025.11.10-14.11.57:330][904]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Bloodshot_Ramparts_Combat'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-14.11.57:366][905]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-14.12.17:593][115]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.12.17:594][115]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.12.17:594][115]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.10-14.12.21:791][367]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.12.21:791][367]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.12.30:280][875]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2041.896 Y=-440.787 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.12.32:994][ 38]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.12.32:995][ 38]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.12.32:995][ 38]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-14.12.34:776][145]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.12.34:776][145]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.12.47:126][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.12.47:126][884]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.12.47:126][884]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-14.12.47:128][884]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-14.12.47:138][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.12.47:141][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-14.12.47:147][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.12.47:178][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.12.47:182][884]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.11.10-14.12.47:182][884]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.11.10-14.12.47:185][884]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.11.10-14.12.47:204][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.11.10-14.12.47:278][885]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.11.10-14.16.00:903][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.11.10-14.16.02:625][521]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-14.16.02:632][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-14.16.02:659][521]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.16.02:760][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.099658s)
+[2025.11.10-14.16.02:760][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.099740s)
+[2025.11.10-14.16.02:793][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.11.10-14.16.02:803][521]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-14.16.02:805][521]LogPlayLevel: PIE: World Init took: (0.002272s)
+[2025.11.10-14.16.02:806][521]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.11.10-14.16.02:806][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-14.16.02:806][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-14.16.02:806][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-14.16.02:806][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-14.16.02:806][521]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-14.16.02:806][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-14.16.02:806][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-14.16.02:806][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-14.16.02:806][521]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-14.16.02:806][521]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-14.16.02:806][521]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-14.16.02:807][521]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-14.16.02:894][521]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-14.16.02:894][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-14.16.02:894][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-14.16.02:894][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-14.16.02:894][521]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.11.10-14.16.02:894][521]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.11.10-14.16.02:896][521]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.11.10-14.16.02:897][521]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.11.10-14.16.02:897][521]LogInit: FAudioDevice initialized with ID 22.
+[2025.11.10-14.16.02:897][521]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level_1'.
+[2025.11.10-14.16.02:897][521]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.11.10-14.16.02:901][521]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-14.16.02:918][521]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.16.02:918][521]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-14.16.02:931][521]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-15.16.02
+[2025.11.10-14.16.02:931][521]LogWorld: Bringing up level for play took: 0.030581
+[2025.11.10-14.16.02:934][521]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.11.10-14.16.02:939][521]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-14.16.02:941][521]PIE: Serveur connecté
+[2025.11.10-14.16.02:944][521]PIE: Play in Editor : temps total de démarrage 0,311 secondes.
+[2025.11.10-14.16.02:974][521]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Bloodshot_Ramparts_Combat'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-14.16.03:006][522]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-14.16.08:633][857]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3328.401 Y=1105.171 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.16.17:531][391]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.16.17:532][391]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.16.17:532][391]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.10-14.16.18:529][451]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.16.18:530][451]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.16.21:750][644]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1363.520 Y=-570.010 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.16.29:215][ 92]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.16.29:215][ 92]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.16.29:215][ 92]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-14.16.30:313][158]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.16.30:313][158]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.16.41:248][814]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.16.41:249][814]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.16.41:249][814]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-14.16.41:997][859]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.16.41:997][859]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.16.46:837][148]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3809.618 Y=-945.438 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.16.48:836][268]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2299.943 Y=1424.763 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.16.50:667][378]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.16.50:668][378]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.16.50:668][378]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-14.16.52:133][466]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.16.52:133][466]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.17.00:420][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2106.520 Y=-542.784 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.17.01:420][ 23]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=126.789 Y=101.882 Z=30.000] for [BP_Drone_C]
+[2025.11.10-14.17.08:951][475]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-14.17.08:951][475]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-14.17.08:951][475]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-14.17.11:416][623]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-14.17.11:416][623]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-14.17.13:540][750]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2860.139893
+[2025.11.10-14.17.13:723][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.10-14.17.13:723][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2860.306641, Update Interval: 349.912415
+[2025.11.10-14.17.15:212][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.17.15:212][849]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-14.17.15:212][849]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-14.17.15:214][849]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-14.17.15:224][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.17.15:227][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-14.17.15:235][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-14.17.15:266][849]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-14.17.15:268][849]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.11.10-14.17.15:268][849]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2025.11.10-14.17.15:269][849]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2025.11.10-14.17.15:273][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-14.17.15:288][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.11.10-14.17.15:364][850]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.11.10-14.17.28:398][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.11.10-14.17.48:347][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.10-14.17.48:442][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_Player] ([2] browsable assets)...
+[2025.11.10-14.17.48:562][821]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2025.11.10-14.17.48:563][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Player]
+[2025.11.10-14.17.48:563][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2025.11.10-14.17.48:692][821]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_Player
+[2025.11.10-14.17.48:692][821]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/BP_Player33592CB54D53573A58B67E8B7693CDF6.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/Player/BP_Player.uasset'
+[2025.11.10-14.17.48:702][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 355.447 ms (total: 2.43 sec)
+[2025.11.10-14.17.48:839][821]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.10-14.17.48:839][821]LogContentValidation: Enabled validators:
+[2025.11.10-14.17.48:839][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.10-14.17.48:839][821]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.10-14.17.48:839][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.10-14.17.48:839][821]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.10-14.17.48:839][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.10-14.17.48:839][821]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.10-14.17.48:839][821]AssetCheck: /Game/Blueprints/Player/BP_Player Validation de la ressource
+[2025.11.10-14.17.50:636][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.10-14.17.50:739][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy/Drone/BP_Drone] ([2] browsable assets)...
+[2025.11.10-14.17.50:784][924]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy/Drone/BP_Drone.BP_Drone]
+[2025.11.10-14.17.50:784][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy/Drone/BP_Drone]
+[2025.11.10-14.17.50:784][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Enemy/Drone/BP_Drone" FILE="../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/AI_Enemy/Drone/BP_Drone.uasset" SILENT=true
+[2025.11.10-14.17.50:808][924]LogSavePackage: Moving output files for package: /Game/Blueprints/AI_Enemy/Drone/BP_Drone
+[2025.11.10-14.17.50:808][924]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/BP_Drone907EB0F2422DD32C6EEE6EBB738B5BAF.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/AI_Enemy/Drone/BP_Drone.uasset'
+[2025.11.10-14.17.50:819][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.177 ms (total: 2.61 sec)
+[2025.11.10-14.17.50:951][924]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.10-14.17.50:951][924]LogContentValidation: Enabled validators:
+[2025.11.10-14.17.50:951][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.10-14.17.50:951][924]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.10-14.17.50:951][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.10-14.17.50:951][924]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.10-14.17.50:951][924]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.10-14.17.50:951][924]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.10-14.17.50:952][924]AssetCheck: /Game/Blueprints/AI_Enemy/Drone/BP_Drone Validation de la ressource
+[2025.11.10-14.17.52:857][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.10-14.17.52:964][ 35]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/AI_Enemy/WB_TextDmgIndicator] ([2] browsable assets)...
+[2025.11.10-14.17.52:968][ 35]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/AI_Enemy/WB_TextDmgIndicator.WB_TextDmgIndicator]
+[2025.11.10-14.17.52:968][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy/WB_TextDmgIndicator]
+[2025.11.10-14.17.52:984][ 35]LogSavePackage: Moving output files for package: /Game/Blueprints/AI_Enemy/WB_TextDmgIndicator
+[2025.11.10-14.17.52:984][ 35]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/WB_TextDmgIndicatorE95223854B7F59C0DBCE1F9CDF6747D1.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/AI_Enemy/WB_TextDmgIndicator.uasset'
+[2025.11.10-14.17.52:996][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.060 ms (total: 2.75 sec)
+[2025.11.10-14.17.53:135][ 35]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.10-14.17.53:135][ 35]LogContentValidation: Enabled validators:
+[2025.11.10-14.17.53:135][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.10-14.17.53:135][ 35]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.10-14.17.53:135][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.10-14.17.53:135][ 35]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.10-14.17.53:135][ 35]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.10-14.17.53:135][ 35]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.10-14.17.53:135][ 35]AssetCheck: /Game/Blueprints/AI_Enemy/WB_TextDmgIndicator Validation de la ressource
+[2025.11.10-14.17.53:159][ 35]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.10-14.17.54:769][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.10-14.17.54:856][130]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier] ([2] browsable assets)...
+[2025.11.10-14.17.54:986][130]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy/Soldier/BP_Soldier.BP_Soldier]
+[2025.11.10-14.17.54:986][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier]
+[2025.11.10-14.17.54:986][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier" FILE="../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/AI_Enemy/Soldier/BP_Soldier.uasset" SILENT=true
+[2025.11.10-14.17.55:022][130]LogSavePackage: Moving output files for package: /Game/Blueprints/AI_Enemy/Soldier/BP_Soldier
+[2025.11.10-14.17.55:023][130]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/BP_Soldier3A9E0E7E4D3BFF303735128F4CD5DE2D.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/AI_Enemy/Soldier/BP_Soldier.uasset'
+[2025.11.10-14.17.55:034][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 264.887 ms (total: 3.01 sec)
+[2025.11.10-14.17.55:157][130]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.10-14.17.55:157][130]LogContentValidation: Enabled validators:
+[2025.11.10-14.17.55:157][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.10-14.17.55:157][130]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.10-14.17.55:157][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.10-14.17.55:157][130]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.10-14.17.55:157][130]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.10-14.17.55:157][130]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.10-14.17.55:157][130]AssetCheck: /Game/Blueprints/AI_Enemy/Soldier/BP_Soldier Validation de la ressource
