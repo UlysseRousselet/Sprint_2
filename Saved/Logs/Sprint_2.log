@@ -1634,3 +1634,279 @@ Confirmez-vous votre choix ?
 [2025.11.10-13.37.17:052][530]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
 [2025.11.10-13.37.17:069][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2025.11.10-13.37.17:131][531]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.11.10-13.40.49:772][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 676.392029
+[2025.11.10-13.40.50:773][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.10-13.40.50:773][793]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 677.061218, Update Interval: 346.094543
+[2025.11.10-13.41.11:197][ 19]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/kaspr/Downloads/mixkit-metal-tool-drop-835_gM61BFl2.wav)
+[2025.11.10-13.41.11:197][ 19]Imported audio has DC offsets larger than 100 at the start of 2 channels - may pop and not loop well: 'mixkit-metal-tool-drop-835_gM61BFl2'
+[2025.11.10-13.41.11:208][ 19]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END onde mixkit-metal-tool-drop-835_gM61BFl2...
+[2025.11.10-13.41.11:210][ 19]LogAudioDerivedData: Display: mixkit-metal-tool-drop-835_gM61BFl2 compressé à 13.54 % (de 67 Ko à 9 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2025.11.10-13.41.11:210][ 19]LogAudio: Display: Chunk stats for (SoundWave /Game/Blueprints/AI_Enemy/Drone/mixkit-metal-tool-drop-835_gM61BFl2.mixkit-metal-tool-drop-835_gM61BFl2: Duration=0.39 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=9313 bytes, ChunkN=0)
+[2025.11.10-13.41.11:211][ 19]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END onde mixkit-metal-tool-drop-835_gM61BFl2...
+[2025.11.10-13.41.11:213][ 19]LogAudioDerivedData: Display: mixkit-metal-tool-drop-835_gM61BFl2 compressé à 13.54 % (de 67 Ko à 9 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2025.11.10-13.41.11:213][ 19]LogAudio: Display: Chunk stats for (SoundWave /Game/Blueprints/AI_Enemy/Drone/mixkit-metal-tool-drop-835_gM61BFl2.mixkit-metal-tool-drop-835_gM61BFl2: Duration=0.39 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=9313 bytes, ChunkN=0)
+[2025.11.10-13.41.19:046][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.10-13.41.20:079][462]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.10-13.41.20:117][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.11.10-13.41.20:147][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.11.10-13.41.20:174][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.11.10-13.41.28:159][806]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/kaspr/Downloads/mixkit-metal-tool-drop-835_gM61BFl2.wav)
+[2025.11.10-13.41.28:159][806]Imported audio has DC offsets larger than 100 at the start of 2 channels - may pop and not loop well: 'mixkit-metal-tool-drop-835_gM61BFl2'
+[2025.11.10-13.41.28:159][806]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END onde mixkit-metal-tool-drop-835_gM61BFl2...
+[2025.11.10-13.41.28:161][806]LogAudioDerivedData: Display: mixkit-metal-tool-drop-835_gM61BFl2 compressé à 13.54 % (de 67 Ko à 9 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2025.11.10-13.41.28:161][806]LogAudio: Display: Chunk stats for (SoundWave /Game/Blueprints/Sounds/Waves/mixkit-metal-tool-drop-835_gM61BFl2.mixkit-metal-tool-drop-835_gM61BFl2: Duration=0.39 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=9313 bytes, ChunkN=0)
+[2025.11.10-13.41.28:161][806]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END onde mixkit-metal-tool-drop-835_gM61BFl2...
+[2025.11.10-13.41.28:163][806]LogAudioDerivedData: Display: mixkit-metal-tool-drop-835_gM61BFl2 compressé à 13.54 % (de 67 Ko à 9 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2025.11.10-13.41.28:163][806]LogAudio: Display: Chunk stats for (SoundWave /Game/Blueprints/Sounds/Waves/mixkit-metal-tool-drop-835_gM61BFl2.mixkit-metal-tool-drop-835_gM61BFl2: Duration=0.39 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=9313 bytes, ChunkN=0)
+[2025.11.10-13.41.43:142][659]LogContentBrowser: Attempting asset rename: mixkit-metal-tool-drop-835_gM61BFl2 -> Wave_EnnemyHit
+[2025.11.10-13.41.43:277][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.10-13.41.43:277][659]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Sounds/Waves/Wave_EnnemyHit] ([1] browsable assets)...
+[2025.11.10-13.41.43:279][659]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Blueprints/Sounds/Waves/Wave_EnnemyHit.Wave_EnnemyHit]
+[2025.11.10-13.41.43:279][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Sounds/Waves/Wave_EnnemyHit]
+[2025.11.10-13.41.43:279][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Sounds/Waves/Wave_EnnemyHit" FILE="../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/Sounds/Waves/Wave_EnnemyHit.uasset" SILENT=true
+[2025.11.10-13.41.43:289][659]LogSavePackage: Moving output files for package: /Game/Blueprints/Sounds/Waves/Wave_EnnemyHit
+[2025.11.10-13.41.43:289][659]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/Wave_EnnemyHitEE1D2B7042A5E2B0D122D5B92542DEC0.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/Sounds/Waves/Wave_EnnemyHit.uasset'
+[2025.11.10-13.41.43:290][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.624 ms (total: 2.05 sec)
+[2025.11.10-13.41.43:328][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.11.10-13.41.43:357][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.10-13.41.43:384][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.11.10-13.41.43:513][659]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.10-13.41.43:513][659]LogContentValidation: Enabled validators:
+[2025.11.10-13.41.43:513][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.10-13.41.43:513][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.10-13.41.43:513][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.10-13.41.43:513][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.10-13.41.43:513][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.10-13.41.43:513][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.10-13.41.43:513][659]AssetCheck: /Game/Blueprints/Sounds/Waves/Wave_EnnemyHit Validation de la ressource
+[2025.11.10-13.41.43:555][659]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.10-13.42.16:949][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.11.10-13.42.18:368][700]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-13.42.18:375][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-13.42.18:375][700]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-13.42.18:471][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095786s)
+[2025.11.10-13.42.18:471][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.095829s)
+[2025.11.10-13.42.18:497][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.10-13.42.18:506][700]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-13.42.18:508][700]LogPlayLevel: PIE: World Init took: (0.001900s)
+[2025.11.10-13.42.18:509][700]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.11.10-13.42.18:509][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-13.42.18:509][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-13.42.18:509][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-13.42.18:509][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-13.42.18:509][700]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-13.42.18:509][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-13.42.18:509][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-13.42.18:509][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-13.42.18:509][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-13.42.18:509][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-13.42.18:509][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-13.42.18:511][700]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-13.42.18:591][700]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-13.42.18:591][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-13.42.18:591][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-13.42.18:591][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-13.42.18:591][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.11.10-13.42.18:591][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.11.10-13.42.18:593][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.11.10-13.42.18:593][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.11.10-13.42.18:593][700]LogInit: FAudioDevice initialized with ID 5.
+[2025.11.10-13.42.18:593][700]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level_1'.
+[2025.11.10-13.42.18:594][700]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.10-13.42.18:598][700]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-13.42.18:615][700]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-13.42.18:615][700]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-13.42.18:628][700]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-14.42.18
+[2025.11.10-13.42.18:628][700]LogWorld: Bringing up level for play took: 0.030810
+[2025.11.10-13.42.18:632][700]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.11.10-13.42.18:636][700]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-13.42.18:639][700]PIE: Serveur connecté
+[2025.11.10-13.42.18:641][700]PIE: Play in Editor : temps total de démarrage 0,266 secondes.
+[2025.11.10-13.42.18:672][700]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Boom_Bewm___Captain_Flynt_Boss'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-13.42.18:711][701]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-13.42.35:512][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-13.42.35:512][702]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-13.42.35:512][702]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-13.42.35:514][702]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-13.42.35:524][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-13.42.35:527][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-13.42.35:534][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-13.42.35:567][702]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-13.42.35:567][702]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.10-13.42.35:567][702]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.11.10-13.42.35:570][702]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.11.10-13.42.35:573][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-13.42.35:585][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.11.10-13.42.35:654][703]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.11.10-13.42.44:985][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.11.10-13.42.46:336][315]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-13.42.46:342][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-13.42.46:363][315]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-13.42.46:457][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094936s)
+[2025.11.10-13.42.46:458][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.094987s)
+[2025.11.10-13.42.46:485][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.10-13.42.46:494][315]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-13.42.46:495][315]LogPlayLevel: PIE: World Init took: (0.001882s)
+[2025.11.10-13.42.46:496][315]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.11.10-13.42.46:496][315]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-13.42.46:496][315]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-13.42.46:496][315]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-13.42.46:496][315]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-13.42.46:496][315]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-13.42.46:496][315]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-13.42.46:496][315]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-13.42.46:496][315]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-13.42.46:496][315]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-13.42.46:496][315]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-13.42.46:496][315]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-13.42.46:498][315]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-13.42.46:576][315]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-13.42.46:577][315]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-13.42.46:577][315]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-13.42.46:577][315]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-13.42.46:577][315]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.11.10-13.42.46:577][315]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.11.10-13.42.46:579][315]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.11.10-13.42.46:579][315]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.11.10-13.42.46:579][315]LogInit: FAudioDevice initialized with ID 6.
+[2025.11.10-13.42.46:579][315]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_1'.
+[2025.11.10-13.42.46:579][315]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.10-13.42.46:583][315]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-13.42.46:600][315]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-13.42.46:600][315]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-13.42.46:612][315]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-14.42.46
+[2025.11.10-13.42.46:613][315]LogWorld: Bringing up level for play took: 0.029984
+[2025.11.10-13.42.46:616][315]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.11.10-13.42.46:621][315]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-13.42.46:624][315]PIE: Serveur connecté
+[2025.11.10-13.42.46:626][315]PIE: Play in Editor : temps total de démarrage 0,284 secondes.
+[2025.11.10-13.42.46:656][315]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Boom_Bewm___Captain_Flynt_Boss'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-13.42.46:688][316]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-13.42.55:669][849]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-13.42.55:669][849]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-13.42.55:670][849]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.10-13.42.57:567][963]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-13.42.57:567][963]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-13.42.59:371][ 71]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1593.886 Y=-1383.972 Z=30.000] for [BP_Drone_C]
+[2025.11.10-13.43.05:334][429]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-13.43.05:335][429]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-13.43.05:335][429]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-13.43.05:434][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-13.43.05:434][433]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-13.43.05:434][433]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-13.43.05:436][433]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-13.43.05:445][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-13.43.05:446][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-13.43.05:453][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-13.43.05:486][433]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-13.43.05:486][433]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.10-13.43.05:486][433]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.11.10-13.43.05:489][433]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.11.10-13.43.05:496][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-13.43.05:508][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.11.10-13.43.05:572][434]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.11.10-13.44.56:348][  6]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/kaspr/Downloads/mixkit-mechanical-technology-movements-3117_AJH3pGrO.wav)
+[2025.11.10-13.44.56:348][  6]Imported audio has DC offsets larger than 100 at the start of 1 channel - may pop and not loop well: 'mixkit-mechanical-technology-movements-3117_AJH3pGrO'
+[2025.11.10-13.44.56:350][  6]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END onde mixkit-mechanical-technology-movements-3117_AJH3pGrO...
+[2025.11.10-13.44.56:352][  6]LogAudioDerivedData: Display: mixkit-mechanical-technology-movements-3117_AJH3pGrO compressé à 19.48 % (de 108 Ko à 21 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2025.11.10-13.44.56:352][  6]LogAudio: Display: Chunk stats for (SoundWave /Game/Blueprints/Sounds/Waves/mixkit-mechanical-technology-movements-3117_AJH3pGrO.mixkit-mechanical-technology-movements-3117_AJH3pGrO: Duration=0.63 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=21657 bytes, ChunkN=0)
+[2025.11.10-13.44.56:353][  6]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END onde mixkit-mechanical-technology-movements-3117_AJH3pGrO...
+[2025.11.10-13.44.56:356][  6]LogAudioDerivedData: Display: mixkit-mechanical-technology-movements-3117_AJH3pGrO compressé à 19.48 % (de 108 Ko à 21 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2025.11.10-13.44.56:356][  6]LogAudio: Display: Chunk stats for (SoundWave /Game/Blueprints/Sounds/Waves/mixkit-mechanical-technology-movements-3117_AJH3pGrO.mixkit-mechanical-technology-movements-3117_AJH3pGrO: Duration=0.63 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=21657 bytes, ChunkN=0)
+[2025.11.10-13.45.09:103][728]LogContentBrowser: Attempting asset rename: mixkit-mechanical-technology-movements-3117_AJH3pGrO -> Wave_Hit
+[2025.11.10-13.45.09:278][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.10-13.45.09:279][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Sounds/Waves/Wave_Hit] ([1] browsable assets)...
+[2025.11.10-13.45.09:281][728]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Blueprints/Sounds/Waves/Wave_Hit.Wave_Hit]
+[2025.11.10-13.45.09:281][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Sounds/Waves/Wave_Hit]
+[2025.11.10-13.45.09:281][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Sounds/Waves/Wave_Hit" FILE="../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/Sounds/Waves/Wave_Hit.uasset" SILENT=true
+[2025.11.10-13.45.09:293][728]LogSavePackage: Moving output files for package: /Game/Blueprints/Sounds/Waves/Wave_Hit
+[2025.11.10-13.45.09:293][728]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/Wave_HitB09927294883F881F155029033118845.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/Sounds/Waves/Wave_Hit.uasset'
+[2025.11.10-13.45.09:296][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 17.914 ms (total: 2.07 sec)
+[2025.11.10-13.45.09:334][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.11.10-13.45.09:370][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.11.10-13.45.09:396][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.10-13.45.09:547][728]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.10-13.45.09:547][728]LogContentValidation: Enabled validators:
+[2025.11.10-13.45.09:547][728]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.10-13.45.09:547][728]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.10-13.45.09:547][728]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.10-13.45.09:547][728]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.10-13.45.09:547][728]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.10-13.45.09:547][728]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.10-13.45.09:547][728]AssetCheck: /Game/Blueprints/Sounds/Waves/Wave_Hit Validation de la ressource
+[2025.11.10-13.45.09:591][728]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.10-13.45.20:663][366]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-13.45.20:671][366]LogPlayLevel: [PlayLevel] Compiling BP_Drone before play...
+[2025.11.10-13.45.20:762][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.11.10-13.45.20:766][366]LogPlayLevel: PlayLevel: Blueprint regeneration took 96 ms (1 blueprints)
+[2025.11.10-13.45.20:806][366]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-13.45.20:903][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097397s)
+[2025.11.10-13.45.20:903][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.097456s)
+[2025.11.10-13.45.20:929][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.11.10-13.45.20:930][366]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-13.45.20:932][366]LogPlayLevel: PIE: World Init took: (0.002016s)
+[2025.11.10-13.45.20:933][366]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.11.10-13.45.20:933][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-13.45.20:933][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-13.45.20:933][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-13.45.20:933][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-13.45.20:933][366]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-13.45.20:933][366]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-13.45.20:933][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-13.45.20:933][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-13.45.20:933][366]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-13.45.20:933][366]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-13.45.20:933][366]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-13.45.20:935][366]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-13.45.21:015][366]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-13.45.21:015][366]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-13.45.21:015][366]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-13.45.21:015][366]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-13.45.21:015][366]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.11.10-13.45.21:015][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.11.10-13.45.21:017][366]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.11.10-13.45.21:017][366]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.11.10-13.45.21:017][366]LogInit: FAudioDevice initialized with ID 7.
+[2025.11.10-13.45.21:017][366]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_1'.
+[2025.11.10-13.45.21:018][366]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.10-13.45.21:022][366]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-13.45.21:038][366]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-13.45.21:038][366]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-13.45.21:051][366]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-14.45.21
+[2025.11.10-13.45.21:052][366]LogWorld: Bringing up level for play took: 0.029969
+[2025.11.10-13.45.21:055][366]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.11.10-13.45.21:059][366]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-13.45.21:062][366]PIE: Serveur connecté
+[2025.11.10-13.45.21:063][366]PIE: Play in Editor : temps total de démarrage 0,395 secondes.
+[2025.11.10-13.45.21:095][366]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Boom_Bewm___Captain_Flynt_Boss'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-13.45.21:128][367]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-13.45.30:722][940]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-96.670 Y=1538.660 Z=20.275] for [BP_Drone_C]
+[2025.11.10-13.45.39:722][480]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1725.907 Y=-1151.138 Z=30.000] for [BP_Drone_C]
+[2025.11.10-13.45.42:753][662]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-13.45.42:754][662]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-13.45.42:754][662]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.10-13.45.46:052][860]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-13.45.46:052][860]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-13.45.49:138][ 45]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1323.490 Y=1836.880 Z=18.663] for [BP_Drone_C]
+[2025.11.10-13.45.53:788][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-13.45.53:788][322]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-13.45.53:789][322]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-13.45.53:790][322]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-13.45.53:799][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-13.45.53:802][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-13.45.53:809][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-13.45.53:838][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-13.45.53:842][322]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.10-13.45.53:842][322]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.11.10-13.45.53:845][322]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.11.10-13.45.53:861][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.10-13.45.53:934][323]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.11.10-13.46.42:454][202]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1029.070068
+[2025.11.10-13.46.42:622][212]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.10-13.46.42:622][212]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1029.220947, Update Interval: 343.399139
