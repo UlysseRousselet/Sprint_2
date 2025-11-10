@@ -1495,3 +1495,142 @@ Confirmez-vous votre choix ?
 [2025.11.10-13.35.04:931][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 331.550385
 [2025.11.10-13.35.05:930][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.10-13.35.05:930][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 332.217163, Update Interval: 340.278931
+[2025.11.10-13.36.10:958][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.10-13.36.11:077][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier] ([2] browsable assets)...
+[2025.11.10-13.36.11:235][821]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy/Soldier/BP_Soldier.BP_Soldier]
+[2025.11.10-13.36.11:235][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier]
+[2025.11.10-13.36.11:235][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier" FILE="../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/AI_Enemy/Soldier/BP_Soldier.uasset" SILENT=true
+[2025.11.10-13.36.11:268][821]LogSavePackage: Moving output files for package: /Game/Blueprints/AI_Enemy/Soldier/BP_Soldier
+[2025.11.10-13.36.11:268][821]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/BP_Soldier93C74FB6456E58530BB166BE98202B8D.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/AI_Enemy/Soldier/BP_Soldier.uasset'
+[2025.11.10-13.36.11:281][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 322.049 ms (total: 1.31 sec)
+[2025.11.10-13.36.11:411][821]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.10-13.36.11:411][821]LogContentValidation: Enabled validators:
+[2025.11.10-13.36.11:411][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.10-13.36.11:411][821]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.10-13.36.11:411][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.10-13.36.11:411][821]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.10-13.36.11:411][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.10-13.36.11:411][821]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.10-13.36.11:411][821]AssetCheck: /Game/Blueprints/AI_Enemy/Soldier/BP_Soldier Validation de la ressource
+[2025.11.10-13.36.19:406][274]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI_Enemy/Drone/BP_Drone.BP_Drone
+[2025.11.10-13.36.19:406][274]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.11.10-13.36.50:428][ 60]LogScript: Warning: Tentative d'accès REINST_BP_Soldier_C_0 via propriété Character, mais REINST_BP_Soldier_C_0 n'est pas valide (en attente de kill ou de déchet)
+	ABP_Soldier1_C /Engine/Transient.World_4:PersistentLevel.REINST_BP_Soldier_C_0.CharacterMesh0.ABP_Soldier1_C_0
+	Function /Game/Blueprints/AI_Enemy/Soldier/Animations/ABP_Soldier1.ABP_Soldier1_C:ExecuteUbergraph_ABP_Soldier1:02E8
+[2025.11.10-13.36.50:428][ 60]LogScript: Warning: Tentative d'accès REINST_BP_Soldier_C_0 via propriété Character, mais REINST_BP_Soldier_C_0 n'est pas valide (en attente de kill ou de déchet)
+	ABP_Soldier1_C /Engine/Transient.World_10:PersistentLevel.REINST_BP_Soldier_C_0.CharacterMesh0.ABP_Soldier1_C_0
+	Function /Game/Blueprints/AI_Enemy/Soldier/Animations/ABP_Soldier1.ABP_Soldier1_C:ExecuteUbergraph_ABP_Soldier1:02E8
+[2025.11.10-13.36.50:483][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.11.10-13.36.53:525][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.10-13.36.53:670][229]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier] ([2] browsable assets)...
+[2025.11.10-13.36.53:826][229]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy/Soldier/BP_Soldier.BP_Soldier]
+[2025.11.10-13.36.53:826][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier]
+[2025.11.10-13.36.53:826][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Enemy/Soldier/BP_Soldier" FILE="../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/AI_Enemy/Soldier/BP_Soldier.uasset" SILENT=true
+[2025.11.10-13.36.53:859][229]LogSavePackage: Moving output files for package: /Game/Blueprints/AI_Enemy/Soldier/BP_Soldier
+[2025.11.10-13.36.53:860][229]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/BP_SoldierA2BB95EA41F294485A62CBB1F6586594.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/AI_Enemy/Soldier/BP_Soldier.uasset'
+[2025.11.10-13.36.53:870][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 344.141 ms (total: 1.65 sec)
+[2025.11.10-13.36.53:984][229]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.10-13.36.53:985][229]LogContentValidation: Enabled validators:
+[2025.11.10-13.36.53:985][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.10-13.36.53:985][229]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.10-13.36.53:985][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.10-13.36.53:985][229]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.10-13.36.53:985][229]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.10-13.36.53:985][229]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.10-13.36.53:985][229]AssetCheck: /Game/Blueprints/AI_Enemy/Soldier/BP_Soldier Validation de la ressource
+[2025.11.10-13.36.55:355][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.11.10-13.36.55:365][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.10-13.36.55:466][303]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_Player] ([2] browsable assets)...
+[2025.11.10-13.36.55:580][303]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2025.11.10-13.36.55:580][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Player]
+[2025.11.10-13.36.55:580][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2025.11.10-13.36.55:703][303]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_Player
+[2025.11.10-13.36.55:704][303]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/BP_PlayerCA085E3547D68A6D084AA3ADD8D8BE0B.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/Player/BP_Player.uasset'
+[2025.11.10-13.36.55:705][303]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy/Drone/BP_Drone] ([2] browsable assets)...
+[2025.11.10-13.36.55:718][303]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy/Drone/BP_Drone.BP_Drone]
+[2025.11.10-13.36.55:718][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy/Drone/BP_Drone]
+[2025.11.10-13.36.55:718][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Enemy/Drone/BP_Drone" FILE="../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/AI_Enemy/Drone/BP_Drone.uasset" SILENT=true
+[2025.11.10-13.36.55:741][303]LogSavePackage: Moving output files for package: /Game/Blueprints/AI_Enemy/Drone/BP_Drone
+[2025.11.10-13.36.55:741][303]LogSavePackage: Moving '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Saved/BP_DroneB4368AE647E1925101C818AAED5AA115.tmp' to '../../../../../../Users/kaspr/Documents/GitHub/Sprint_2/Content/Blueprints/AI_Enemy/Drone/BP_Drone.uasset'
+[2025.11.10-13.36.55:751][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 386.191 ms (total: 2.04 sec)
+[2025.11.10-13.36.55:856][303]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.10-13.36.55:856][303]LogContentValidation: Enabled validators:
+[2025.11.10-13.36.55:856][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.10-13.36.55:856][303]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.10-13.36.55:856][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.10-13.36.55:856][303]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.10-13.36.55:856][303]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.10-13.36.55:856][303]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.10-13.36.55:856][303]AssetCheck: /Game/Blueprints/Player/BP_Player Validation de la ressource
+[2025.11.10-13.36.55:856][303]AssetCheck: /Game/Blueprints/AI_Enemy/Drone/BP_Drone Validation de la ressource
+[2025.11.10-13.36.57:972][420]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.11.10-13.36.57:980][420]LogPlayLevel: [PlayLevel] Compiling BP_Drone before play...
+[2025.11.10-13.36.58:068][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.11.10-13.36.58:073][420]LogPlayLevel: PlayLevel: Blueprint regeneration took 95 ms (1 blueprints)
+[2025.11.10-13.36.58:073][420]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-13.36.58:170][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096360s)
+[2025.11.10-13.36.58:170][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.096404s)
+[2025.11.10-13.36.58:197][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.11.10-13.36.58:198][420]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.11.10-13.36.58:200][420]LogPlayLevel: PIE: World Init took: (0.002079s)
+[2025.11.10-13.36.58:201][420]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.11.10-13.36.58:201][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-13.36.58:201][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-13.36.58:201][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-13.36.58:201][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-13.36.58:201][420]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-13.36.58:201][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-13.36.58:201][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-13.36.58:201][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-13.36.58:201][420]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-13.36.58:201][420]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-13.36.58:201][420]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-13.36.58:203][420]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-13.36.58:284][420]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.10-13.36.58:285][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-13.36.58:285][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-13.36.58:285][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-13.36.58:285][420]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.11.10-13.36.58:285][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.11.10-13.36.58:287][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.11.10-13.36.58:287][420]LogInit: FAudioDevice initialized with ID 4.
+[2025.11.10-13.36.58:287][420]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.11.10-13.36.58:287][420]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_1'.
+[2025.11.10-13.36.58:287][420]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.10-13.36.58:291][420]LogLoad: Game class is 'GameModeSprint2_C'
+[2025.11.10-13.36.58:308][420]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1594.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-13.36.58:308][420]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.StaticMeshActor_1595.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.11.10-13.36.58:320][420]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.11.10-14.36.58
+[2025.11.10-13.36.58:321][420]LogWorld: Bringing up level for play took: 0.030070
+[2025.11.10-13.36.58:324][420]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.11.10-13.36.58:328][420]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.11.10-13.36.58:330][420]PIE: Serveur connecté
+[2025.11.10-13.36.58:333][420]PIE: Play in Editor : temps total de démarrage 0,355 secondes.
+[2025.11.10-13.36.58:363][420]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Borderlands_2__UST__-_Boom_Bewm___Captain_Flynt_Boss'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.11.10-13.36.58:401][421]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-13.37.02:985][691]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2166.149 Y=-1115.776 Z=24.914] for [BP_Drone_C]
+[2025.11.10-13.37.06:499][902]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-13.37.06:500][902]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-13.37.06:500][902]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.10-13.37.08:783][ 39]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-13.37.08:783][ 39]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.10-13.37.10:386][135]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2188.850 Y=1122.054 Z=30.000] for [BP_Drone_C]
+[2025.11.10-13.37.14:387][375]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2760.468 Y=-423.059 Z=30.000] for [BP_Drone_C]
+[2025.11.10-13.37.16:416][497]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.11.10-13.37.16:417][497]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-13.37.16:417][497]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.10-13.37.16:995][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-13.37.16:996][530]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2025.11.10-13.37.16:996][530]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-13.37.16:997][530]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-13.37.17:007][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-13.37.17:008][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-13.37.17:015][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-13.37.17:046][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-13.37.17:049][530]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.10-13.37.17:049][530]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.11.10-13.37.17:052][530]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.11.10-13.37.17:069][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.10-13.37.17:131][531]LogPlayLevel: Display: Destroying online subsystem :Context_17
